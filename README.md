@@ -20,7 +20,7 @@ Este é um projeto full-stack para a disciplina de Programação Web do Institut
 **a. Clone o repositório:**
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/jlsgodev/cadastra-cursos-ifc.git
 cd curso-backend-frontend-web
 ```
 
